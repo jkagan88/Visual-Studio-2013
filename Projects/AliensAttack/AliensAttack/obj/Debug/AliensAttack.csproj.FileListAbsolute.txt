@@ -1,0 +1,10 @@
+c:\users\jkahan\documents\visual studio 2013\Projects\AliensAttack\AliensAttack\bin\Debug\AliensAttack.exe.config
+c:\users\jkahan\documents\visual studio 2013\Projects\AliensAttack\AliensAttack\bin\Debug\AliensAttack.exe
+c:\users\jkahan\documents\visual studio 2013\Projects\AliensAttack\AliensAttack\bin\Debug\AliensAttack.pdb
+c:\users\jkahan\documents\visual studio 2013\Projects\AliensAttack\AliensAttack\obj\Debug\AliensAttack.csprojResolveAssemblyReference.cache
+c:\users\jkahan\documents\visual studio 2013\Projects\AliensAttack\AliensAttack\obj\Debug\App.g.cs
+c:\users\jkahan\documents\visual studio 2013\Projects\AliensAttack\AliensAttack\obj\Debug\AliensAttack_MarkupCompile.cache
+c:\users\jkahan\documents\visual studio 2013\Projects\AliensAttack\AliensAttack\obj\Debug\AliensAttack.Properties.Resources.resources
+c:\users\jkahan\documents\visual studio 2013\Projects\AliensAttack\AliensAttack\obj\Debug\AliensAttack.csproj.GenerateResource.Cache
+c:\users\jkahan\documents\visual studio 2013\Projects\AliensAttack\AliensAttack\obj\Debug\AliensAttack.exe
+c:\users\jkahan\documents\visual studio 2013\Projects\AliensAttack\AliensAttack\obj\Debug\AliensAttack.pdb

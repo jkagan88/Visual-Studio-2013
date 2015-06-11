@@ -1,0 +1,2 @@
+c:\users\jkahan\documents\visual studio 2013\Projects\Functions\Functions\bin\Debug\Functions.exe.config
+c:\users\jkahan\documents\visual studio 2013\Projects\Functions\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Save_The_Humans.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="1000">
+    <Grid RenderTransformOrigin="0.572,0.589">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="140"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="160"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="239"/>
+            <RowDefinition Height="150"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="startButton" Content="START!" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Grid.Row="1"/>
+        <ProgressBar Grid.Column="1" HorizontalAlignment="Left" Height="22" Margin="267,28,0,0" Grid.Row="1" VerticalAlignment="Top" Width="161"/>
+        <ContentControl Content="ContentControl" Grid.Column="2" HorizontalAlignment="Left" Margin="33,28,0,0" VerticalAlignment="Top" Height="22" Width="105" Grid.Row="1"/>
+        <Canvas Grid.Column="1" HorizontalAlignment="Left" Height="100" Margin="47,33,0,0" VerticalAlignment="Top" Width="161"/>
+        <TextBlock x:Name="TextBox" Grid.Column="2" HorizontalAlignment="Left" Margin="33,0,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Avoid!" VerticalAlignment="Top" RenderTransformOrigin="-0.474,0.549" Height="71" Width="117"/>
+
+    </Grid>
+</Window>

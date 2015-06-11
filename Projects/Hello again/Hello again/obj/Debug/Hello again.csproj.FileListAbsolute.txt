@@ -1,0 +1,6 @@
+c:\users\jkahan\documents\visual studio 2013\Projects\Hello again\Hello again\bin\Debug\Hello again.exe.config
+c:\users\jkahan\documents\visual studio 2013\Projects\Hello again\Hello again\bin\Debug\Hello again.exe
+c:\users\jkahan\documents\visual studio 2013\Projects\Hello again\Hello again\bin\Debug\Hello again.pdb
+c:\users\jkahan\documents\visual studio 2013\Projects\Hello again\Hello again\obj\Debug\Hello again.csprojResolveAssemblyReference.cache
+c:\users\jkahan\documents\visual studio 2013\Projects\Hello again\Hello again\obj\Debug\Hello again.exe
+c:\users\jkahan\documents\visual studio 2013\Projects\Hello again\Hello again\obj\Debug\Hello again.pdb
